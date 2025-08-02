@@ -16,23 +16,22 @@ AI Image Enhancer is a modern web application built using **React**, **Tailwind 
 
 ## 📸 Screenshots
 
-> Upload screenshots in a `screenshots/` folder and update the image paths accordingly.
 
 ### 🔹 1. Before Upload
 
-![Before Upload](./screenshots/before-upload.png)
+![Before Upload](./public/beforeUpload.png)
 
 ---
 
 ### 🔹 2. After Upload
 
-![After Upload](./screenshots/after-upload.png)
+![After Upload](./public/afterUpload.png)
 
 ---
 
 ### 🔹 3. Enhanced Result
 
-![Result](./screenshots/result-preview.png)
+![Result](./public/enhancedImage.png)
 
 ---
 
